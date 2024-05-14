@@ -5,3 +5,7 @@
 *.scm~
 *.scm#*
 .#*.scm
+
+task2.rkt~
+
+.DS_Store
