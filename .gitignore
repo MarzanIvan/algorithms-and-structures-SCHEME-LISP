@@ -2,9 +2,13 @@
 *.ss#*
 .#*.ss
 
+*.rkt~
+
+
+
 *.scm~
 *.scm#*
-.#*.scm
+#*.scm
 
 task2.rkt~
 
