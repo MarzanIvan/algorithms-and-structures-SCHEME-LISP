@@ -11,4 +11,5 @@ While writing programs book Structure and Interpretation of Computer Programs (f
   Structure of project
   <li>✅ Exercise 1.3 - square.scm</li>
   <li>✅ Exercise 1.8 - roots.rkt</li>
+  <li>✅ Exercise 1.11 - fib.scm</li>
 </ul>
