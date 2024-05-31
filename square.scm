@@ -19,3 +19,7 @@
     (else (cond ((<= y z) (sum-squares x z))))) 
   )
 (task 10 10 1)
+(display "\n")
+(task 1 10 8)
+(display "\n")
+(task 6 1 6)
